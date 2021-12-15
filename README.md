@@ -3,7 +3,6 @@
 * 코어 문제에 대한 효과적인 해결 방법을 찾고 개선 하는 것을 좋아합니다.
 * 비지니스 마인드를 가지고 개발하는 것을 지향합니다.
 * 함께 성장하며 좋은 value를 나누고 싶습니다.
-- 📫 How to reach me: [Gmail](sunheeheo10@gmail.com)
 
 <!--
 **SunHeeHeo/SunHeeHeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
